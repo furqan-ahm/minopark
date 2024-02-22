@@ -1,6 +1,8 @@
 # minopark
 
-A new Flutter project.
+A LAN based multiplayer game built using the flame engine and socketio.
+
+-Work in Progress-
 
 ## Getting Started
 
